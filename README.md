@@ -3,7 +3,7 @@
 ### ... and I'm a **Junior front-end developer**.
 I'm from Italy, living in Pomezia, close to Rome. You can find me on [![LinkedIn logo](https://raw.githubusercontent.com/DylanBuendia/DylanBuendia/main/linkedin-3-16.png)](https://www.linkedin.com/in/marco-costantino-66174785/).
 
-## :computer: Technologies & Tools
+## :hammer_and_wrench: Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VSC-blue?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-HTML5-orange?style=flat&logo=html5&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-CSS3-9cf?style=flat&logo=css3&logoColor=white&color=blue)
